@@ -1,0 +1,8 @@
+# Ignore virtual environments
+ml-ops-basics/
+
+# Ignore system files
+.DS_Store
+
+# Ignore MLflow artifacts
+mlruns/
